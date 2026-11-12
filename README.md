@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="AxmaT" width="640">
+<img src="banner.png" alt="AxmaT" width="640">
 
 **A TikTok mod for Android.**
 The second in the line after Axmat.
